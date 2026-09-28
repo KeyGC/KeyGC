@@ -4,11 +4,25 @@
 
 ### `Software Developer Student • Computer Systems Engineering`
 
-🇨🇷 Costa Rica
+🇨🇷 **Costa Rica**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+software+%F0%9F%9A%80;Learning+every+day+%F0%9F%A7%A0;Turning+ideas+into+code+%F0%9F%92%BB;Always+improving+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+software+%F0%9F%9A%80;Turning+ideas+into+code+%F0%9F%92%BB;Learning+modern+technologies+%F0%9F%A7%A0;Always+improving+%E2%9A%A1" alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://github.com/KeyGC">
+<img src="https://img.shields.io/badge/GitHub-KeyGC-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/keylor-garcia-corrales-8a2135322/">
+<img src="https://img.shields.io/badge/LinkedIn-Keylor_García-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:keylorg255@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -19,18 +33,21 @@
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│  👨‍💻  Computer Systems Engineering Student                  │
-│  📍  Costa Rica                                              │
-│  💻  Focused on Software Development                         │
-│  🌱  Currently expanding my knowledge in modern technologies │
-│  🚀  Building projects to transform knowledge into practice  │
+│  > Computer Systems Engineering Student                     │
+│  > Software Development                                     │
+│  > Backend & Web Development                                 │
+│  > Database Design & Integration                             │
+│  > REST APIs & CRUD Applications                             │
+│  > Always learning. Always building.                        │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-I'm a **Computer Systems Engineering student** interested in software development, web technologies, backend development and databases.
+I'm a **Computer Systems Engineering student** from Costa Rica focused on **software development, backend technologies, web applications and databases**.
 
-I enjoy learning new technologies, solving problems and building applications that allow me to put theory into practice.
+I enjoy solving problems, learning new technologies and turning ideas into functional software.
+
+Currently, I'm expanding my knowledge in **React, TypeScript, Spring Boot and modern software development practices** while building projects that combine frontend, backend and database technologies.
 
 ---
 
@@ -52,31 +69,68 @@ I enjoy learning new technologies, solving problems and building applications th
 
 </p>
 
-### `DATABASES & TOOLS`
+### `DATABASES`
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,postman" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</p>
+
+### `TOOLS & DEVELOPMENT`
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,netlify" />
 
 </p>
 
 ---
 
-## `03 // CURRENTLY LEARNING`
+## `03 // WHAT I WORK WITH`
 
 ```text
-React + TypeScript       ███████████████████░░   90%
-Spring Boot              ██████████████████░░░   85%
-REST APIs                █████████████████░░░░   80%
-Database Design          ████████████████░░░░░   75%
-Software Architecture    ██████████████░░░░░░░   70%
+┌────────────────────────┬────────────────────────┐
+│        BACKEND         │        FRONTEND        │
+├────────────────────────┼────────────────────────┤
+│ Java                   │ React                  │
+│ Spring Boot            │ TypeScript             │
+│ PHP                    │ JavaScript             │
+│ Laravel                │ HTML / CSS             │
+│ REST APIs              │ Bootstrap              │
+└────────────────────────┴────────────────────────┘
+```
+
+```text
+┌────────────────────────┬────────────────────────┐
+│       DATABASES        │       DEVELOPMENT      │
+├────────────────────────┼────────────────────────┤
+│ MySQL                  │ Git / GitHub            │
+│ SQL                    │ MVC Architecture       │
+│ Data Modeling          │ CRUD Applications      │
+│ Database Integration   │ Problem Solving        │
+│ Prepared Statements    │ Teamwork                │
+└────────────────────────┴────────────────────────┘
+```
+
+---
+
+## `04 // CURRENTLY LEARNING`
+
+```text
+React + TypeScript
+Spring Boot
+REST API Development
+Database Design
+Software Architecture
+Modern Web Development
 ```
 
 > `Always learning. Always building.`
 
 ---
 
-## `04 // FEATURED PROJECTS`
+## `05 // FEATURED PROJECTS`
 
 <table>
 <tr>
@@ -85,7 +139,7 @@ Software Architecture    ██████████████░░░░�
 
 ### ☕ Café La Pérgola
 
-Web application developed using:
+Restaurant web application developed with:
 
 * PHP
 * Laravel
@@ -93,19 +147,25 @@ Web application developed using:
 * JavaScript
 * MySQL
 
+Focus:
+
+`Web Development • CRUD • Database Integration`
+
 </td>
 
 <td width="50%" valign="top">
 
 ### ❤️ MatchCitas
 
-Web application developed using:
+Web application developed with:
 
 * PHP
 * JavaScript
 * Bootstrap
 * MySQL
 * REST/API integrations
+
+Includes database integration and application logic focused on user profiles and matching functionality.
 
 </td>
 
@@ -117,7 +177,7 @@ Web application developed using:
 
 ### 🍽️ Restaurant Management System
 
-Application developed with:
+Backend/web application developed with:
 
 * Java
 * Spring Boot
@@ -126,18 +186,26 @@ Application developed with:
 * JavaScript
 * SQL
 
+Focus:
+
+`MVC • CRUD • JPA • Database Integration`
+
 </td>
 
 <td width="50%" valign="top">
 
 ### 🌐 Personal Portfolio
 
-Currently building my developer portfolio with:
+Developer portfolio currently being built with:
 
 * React
 * TypeScript
 * Spring Boot
 * Modern web technologies
+
+Focus:
+
+`Frontend • Backend • Software Architecture`
 
 </td>
 
@@ -146,7 +214,7 @@ Currently building my developer portfolio with:
 
 ---
 
-## `05 // GITHUB STATS`
+## `06 // GITHUB ACTIVITY`
 
 <div align="center">
 
@@ -156,9 +224,7 @@ Currently building my developer portfolio with:
 
 </div>
 
----
-
-## `06 // CONTRIBUTIONS`
+<br>
 
 <div align="center">
 
@@ -168,28 +234,27 @@ Currently building my developer portfolio with:
 
 ---
 
-## `07 // WHAT I LIKE TO BUILD`
+## `07 // DEVELOPMENT FOCUS`
 
 ```text
-┌───────────────────────┬───────────────────────┐
-│       BACKEND         │       FRONTEND        │
-├───────────────────────┼───────────────────────┤
-│ REST APIs             │ React                 │
-│ Java / Spring Boot    │ TypeScript            │
-│ PHP / Laravel         │ JavaScript            │
-│ Database integration  │ Bootstrap             │
-└───────────────────────┴───────────────────────┘
-```
-
-```text
-┌───────────────────────┬───────────────────────┐
-│      DATABASES        │      DEVELOPMENT      │
-├───────────────────────┼───────────────────────┤
-│ MySQL                 │ Git / GitHub           │
-│ SQL                   │ Problem Solving        │
-│ Data Modeling         │ Teamwork               │
-│ CRUD Applications     │ Continuous Learning    │
-└───────────────────────┴───────────────────────┘
+             ┌─────────────────────────────┐
+             │       SOFTWARE DEV          │
+             └──────────────┬──────────────┘
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+          ▼                 ▼                 ▼
+      BACKEND            FRONTEND          DATABASES
+          │                 │                 │
+     Spring Boot          React              MySQL
+     Java                 TypeScript         SQL
+     PHP                  JavaScript         Modeling
+     REST APIs             Bootstrap          CRUD
+          │                 │                 │
+          └─────────────────┼─────────────────┘
+                            │
+                            ▼
+                   `BUILD • LEARN • IMPROVE`
 ```
 
 ---
@@ -198,7 +263,7 @@ Currently building my developer portfolio with:
 
 <div align="center">
 
-<a href="www.linkedin.com/in/keylor-garcia-corrales-8a2135322">
+<a href="https://www.linkedin.com/in/keylor-garcia-corrales-8a2135322/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -217,6 +282,8 @@ Currently building my developer portfolio with:
 <div align="center">
 
 ### `>_ KEEP CODING. KEEP LEARNING. KEEP BUILDING.`
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=KeyGC&label=PROFILE+VIEWS&color=00f7ff&style=flat" />
 
