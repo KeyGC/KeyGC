@@ -218,19 +218,18 @@ Focus:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KeyGC&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KeyGC&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyGC&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyGC&layout=compact&theme=tokyonight&hide_border=true" />
 
-<br>
+<br><br>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KeyGC&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KeyGC&theme=tokyo-night&hide_border=true" width="95%" />
 
 </div>
+
 
 ---
 
