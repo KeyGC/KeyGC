@@ -150,9 +150,9 @@ Currently building my developer portfolio with:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KeyGC&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyGC&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -162,7 +162,7 @@ Currently building my developer portfolio with:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KeyGC&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
@@ -198,7 +198,7 @@ Currently building my developer portfolio with:
 
 <div align="center">
 
-<a href="TU_LINKEDIN">
+<a href="www.linkedin.com/in/keylor-garcia-corrales-8a2135322">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -206,7 +206,7 @@ Currently building my developer portfolio with:
 <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="mailto:TU_CORREO">
+<a href="mailto:keylorg255@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -218,6 +218,6 @@ Currently building my developer portfolio with:
 
 ### `>_ KEEP CODING. KEEP LEARNING. KEEP BUILDING.`
 
-<img src="https://komarev.com/ghpvc/?username=TU_USERNAME&label=PROFILE+VIEWS&color=00f7ff&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=KeyGC&label=PROFILE+VIEWS&color=00f7ff&style=flat" />
 
 </div>
