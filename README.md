@@ -218,15 +218,29 @@ Focus:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KeyGC&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+### `>_ GITHUB PROFILE`
+
+<a href="https://github.com/KeyGC">
+<img src="https://img.shields.io/github/followers/KeyGC?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KeyGC?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-VIEW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KeyGC?tab=stars">
+<img src="https://img.shields.io/github/stars/KeyGC?label=STARS&style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyGC&layout=compact&theme=tokyonight&hide_border=true" />
+`Java` • `JavaScript` • `TypeScript` • `PHP` • `React` • `Spring Boot` • `MySQL`
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KeyGC&theme=tokyo-night&hide_border=true" width="95%" />
+<a href="https://github.com/KeyGC">
+<img src="https://img.shields.io/badge/VIEW_MY_GITHUB-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </div>
 
